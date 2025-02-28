@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+#Sujal Tuladhar
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+this is my portfolio design by using html and css only.
